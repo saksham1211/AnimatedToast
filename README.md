@@ -57,6 +57,6 @@ Any contributions, large or small, major features, bug fixes, are welcomed and a
 
 * [Instagram](https://www.instagram.com/saksham.dubey_/)
 
-* [LinkedIn](www.linkedin.com/in/sakshamdubey)
+* [LinkedIn](https://www.linkedin.com/in/sakshamdubey/)
 
 _Made with_ :heart: _for the community_
