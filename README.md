@@ -1,4 +1,4 @@
-# AnimatedToast
+# AnimatedToast                                    [![](https://jitpack.io/v/saksham1211/AnimatedToast.svg)](https://jitpack.io/#saksham1211/AnimatedToast)
 Spice up your native android Toast library and make new cool animated Toasts in Android Studio. This custom made library helps you to design cool animated Toasts easily with minimal lines of code.
 
 ## Prerequisites
